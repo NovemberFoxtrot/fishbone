@@ -5,6 +5,9 @@
 	"fromaddress":"address@example.com",
 	"fromname":"the name",
 	"subject":"the subject",
-	"body":"the body"
+	"body":"the\nbody",
+	"database":"qwerty",
+	"username":"qwerty",
+	"password":"qwerty"
 }
 
