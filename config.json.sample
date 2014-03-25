@@ -1,0 +1,10 @@
+{
+	"address":"localhost:11300",
+	"key":"qwerty",
+	"mailbox":"qwerty",
+	"fromaddress":"address@example.com",
+	"fromname":"the name",
+	"subject":"the subject",
+	"body":"the body"
+}
+
